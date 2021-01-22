@@ -1,8 +1,4 @@
 One
 two
-three
-
-Adding additional text to see how this works
-
-Emily Miles
-
+ready?
+Go!
